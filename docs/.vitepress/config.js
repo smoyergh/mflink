@@ -5,7 +5,7 @@ export default defineConfig({
   title: "mflink",
   description: "Moyer Family Link",
   lang: 'en-US',
-  appearance: "dark",
+  appearance: false,
   base: '/mflink/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
